@@ -16,13 +16,13 @@
 ### 🧠 Currently Learning
 - Advanced ML techniques
 - AI chatbot frameworks
-- Cloud deployment (AWS, Azure, Hugging Face)
+- Cloud deployment (Azure, Hugging Face)
 
 ---
 
 ### 🌍 About Me
 - 🇵🇪 From Peru
-- 🎓 Data Science & Machine Learning student
+- 🎓 Data Science & Machine Learning graduate
 - 👽 Founder of **AlienBussines**
 - 💡 Passionate about creating with purpose and impact
 
