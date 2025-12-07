@@ -1,30 +1,26 @@
-# 👋 Hi, I'm Jeremy Calmiett
+# Hi, I'm Jeremy Calmiett
+---
 
-👨‍💻 Founder of [AlienBussines](https://github.com/AlienBussines-AI) 👽 — a tech brand creating intelligent solutions through Data Science, Machine Learning, and AI.
+### What I Do
+-  Data Analysis & Visualization
+-  Virtual Assistant Development (AI & NLP)
+-  Automation with Python and Power BI
+-  Machine Learning & Predictive Models
+-  Building futuristic tools with real-world impact
 
 ---
 
-### 🚀 What I Do
-- 🔬 Data Analysis & Visualization
-- 🤖 Virtual Assistant Development (AI & NLP)
-- 📊 Automation with Python and Power BI
-- 🧠 Machine Learning & Predictive Models
-- 🛠️ Building futuristic tools with real-world impact
-
----
-
-### 🧠 Currently Learning
+### Currently Learning
 - Advanced ML techniques
 - AI chatbot frameworks
 - Cloud deployment (Azure, Hugging Face)
 
 ---
 
-### 🌍 About Me
+###  About Me
 - 🇵🇪 From Peru
-- 🎓 Data Science & Machine Learning graduate
-- 👽 Founder of **AlienBussines**
-- 💡 Passionate about creating with purpose and impact
+-  Data Science & Machine Learning graduat
+-  Passionate about creating with purpose and impact
 
 ---
 
