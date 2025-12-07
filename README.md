@@ -18,14 +18,14 @@
 ---
 
 ###  About Me
-- 🇵🇪 From Peru
+-  From Peru
 -  Data Science & Machine Learning graduat
 -  Passionate about creating with purpose and impact
 
 ---
 
-### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeremy-calmiett-diaz-b65a39307)
-- ✉️ Email: jeremycalmiett.devdata7@gmail.com
+### Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/jeremy-calmiett-diaz-b65a39307)
+- Email: jeremycalmiett.devdata7@gmail.com
 
-> “Building intelligent solutions today for the problems of tomorrow.” 🚀
+> “Building intelligent solutions today for the problems of tomorrow.”
